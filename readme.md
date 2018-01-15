@@ -9,6 +9,8 @@ block1-begin
 
 	try rebase #3
 
+	Test Sorcetree \ tortoisegit
+
 block1-end
 
 
