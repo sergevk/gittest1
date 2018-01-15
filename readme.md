@@ -10,6 +10,7 @@ block1-begin
 	try rebase #3
 
 	Test Sorcetree \ tortoisegit
+	Test Tortoisegit
 
 block1-end
 
